@@ -24,7 +24,7 @@
     "enzyme-adapter-react-16": "^1.6.0",
     "flag-icon-css": "^3.2.1",
     "font-awesome": "^4.7.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^6.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-app-polyfill": "^0.1.3",
